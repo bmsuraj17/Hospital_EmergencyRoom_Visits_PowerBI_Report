@@ -6,21 +6,21 @@ This PowerBI report provides insights into emergency room visits at a healthcare
 The dataset used for this report contains information such as patient ID, gender, age, satisfaction score, race, admission flag, wait time, and department referral. Each record represents a patient's emergency room visit.
 
 ## Key Metrics
--Total Patient Visits: Total number of patients who visited the emergency room.-
-Admitted vs. Not Admitted Patients: Comparison of the number of patients admitted to the hospital versus those not admitted.
-Average Satisfaction Score: Average satisfaction score reported by patients.
-Service Not Rated: Number of patients who did not rate the service.
-Average Wait Time: Average wait time experienced by patients.
-Total Patient Visits by Year: Breakdown of patient visits by year.
-Total Patients by Week Type: Distribution of patient visits by week type (e.g., weekday, weekend).
-Total Patient Visits by Month: Distribution of patient visits by month.
-Gender Breakdown: Distribution of patient visits by gender.
-Patients by Department Referral: Number of patients referred to different departments.
-Referred Patients: Number of patients referred to specific departments.
-Non-Referred Patients: Number of patients not referred to any department.
-Time (AM/PM): Distribution of patient visits by time of day (AM/PM).
+- **Total Patient Visits:** Total number of patients who visited the emergency room.
+- **Admitted vs. Not Admitted Patients:** Comparison of the number of patients admitted to the hospital versus those not admitted.
+- **Average Satisfaction Score:** Average satisfaction score reported by patients.
+- **Service Not Rated:** Number of patients who did not rate the service.
+- **Average Wait Time:** Average wait time experienced by patients.
+- **Total Patient Visits by Year:** Breakdown of patient visits by year.
+- **Total Patients by Week Type:** Distribution of patient visits by week type (e.g., weekday, weekend).
+- **Total Patient Visits by Month:** Distribution of patient visits by month.
+- **Gender Breakdown:** Distribution of patient visits by gender.
+- **Patients by Department Referral:** Number of patients referred to different departments.
+- **Referred Patients:** Number of patients referred to specific departments.
+- **Non-Referred Patients:** Number of patients not referred to any department.
+- **Time (AM/PM):** Distribution of patient visits by time of day (AM/PM).
 
-Visualizations
+- Visualizations
 Cards: Summary cards displaying key metrics.
 Bar Chart: Visualization of patient visits by department referral.
 Column Chart: Comparison of admitted vs. not admitted patients.
